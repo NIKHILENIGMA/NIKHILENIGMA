@@ -8,27 +8,32 @@ I'm a just guy who likes to develop **web app**
 The thrill of building something from scratch and witnessing it evolve into a functional, user-friendly application fuels my passion. I love the creative process, finding innovative solutions to challenges, and continuously learning to stay ahead in the fast-paced tech world.
 ## 🛠 Skills
  **Frontend Development**: I specialize in creating dynamic and responsive user interfaces using React.js. Crafting engaging, pixel-perfect designs is my forte.
-I have gain proficiency:
+I have gain proficiency in
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,figma&theme=dark)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,figma&theme=dark)](https://skillicons.dev) 
 
 
 **Backend Development**: With Node.js and Express, I build the backbone of applications, ensuring they run smoothly and efficiently.
-I have gain proficiency:
+I have gain proficiency in 
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs&theme=dark)](https://skillicons.dev) 
 
 **Database Management**: MongoDB is my database of choice for its flexibility, scalability, and seamless integration with the MERN stack.
-I have gain proficiency: 
+I have gain proficiency in 
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&theme=dark)](https://skillicons.dev) 
+
+**Version Control**: Git helps you track changes in your code, collaborate with others, and manage your project's history effectively.
+
+[![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev)
+
 ## 🎓Other 
 
-🧠 I'm currently learning core languages like **Typescript** and **Python**
+🧠 I'm currently learning core language like **Typescript** and **Python**
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,python)](https://skillicons.dev) 
 
-And framework like **Next.js** 
+And framework like **Next.js**
 
 [![My Skills](https://skillicons.dev/icons?i=next,native)](https://skillicons.dev) 
 
