@@ -10,7 +10,7 @@ The thrill of building something from scratch and witnessing it evolve into a fu
  **Frontend Development**: I specialize in creating dynamic and responsive user interfaces using React.js. Crafting engaging, pixel-perfect designs is my forte.
 I have gain proficiency in
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,figma&theme=dark)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,figma&perline=4)](https://skillicons.dev) 
 
 
 **Backend Development**: With Node.js and Express, I build the backbone of applications, ensuring they run smoothly and efficiently.
@@ -27,17 +27,24 @@ I have gain proficiency in
 
 [![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev)
 
+**Code Editor**:I'm also comfortable with these code editor 
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,replit,codepen&theme=dark)](https://skillicons.dev)
 ## 🎓Other 
+👩‍💻 I'm currently working on some **Full Stack Projects** 
 
 🧠 I'm currently learning core language like **Typescript** and **Python**
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,python)](https://skillicons.dev) 
 
-And framework like **Next.js**
+And framework like **Next.js** 
 
 [![My Skills](https://skillicons.dev/icons?i=next,native)](https://skillicons.dev) 
 
-👩‍💻 I'm currently working on some **Full Stack Projects** 
+New technologies I'm interested in:
+
+[![My Skills](https://skillicons.dev/icons?i=materialui,aws,azure,vercel,netlify,githubactions,django,sqlite,kotlin,swift,docker,angular,vue,threejs,sentry&perline=5)](https://skillicons.dev)
+
 
 👯‍♀️ I'm always open to new opportunities, collaborations, and connecting with fellow developers and tech enthusiasts. Feel free to reach out, and let's create something amazing together!
 
